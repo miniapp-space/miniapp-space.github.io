@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c82689c8a745965c518217b4e88f9b18",
+    "revision": "24c9684665e444c1765e33d72eac8470",
     "url": "/tesla-coil-calculator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tesla-coil-calculator/static/css/2.afc662ca.chunk.css"
   },
   {
-    "revision": "c9dbced1f6914890b386",
+    "revision": "80a1de56e5a3fc6d82f1",
     "url": "/tesla-coil-calculator/static/css/main.5c47ee51.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tesla-coil-calculator/static/js/2.27cb6259.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9dbced1f6914890b386",
-    "url": "/tesla-coil-calculator/static/js/main.98dec487.chunk.js"
+    "revision": "80a1de56e5a3fc6d82f1",
+    "url": "/tesla-coil-calculator/static/js/main.458834bf.chunk.js"
   },
   {
     "revision": "ee4d569465fce33a9b07",

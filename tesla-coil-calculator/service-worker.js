@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tesla-coil-calculator/precache-manifest.7ffd861d83dc45d8ee3459415cc8188d.js"
+  "/tesla-coil-calculator/precache-manifest.37cecc333859af51e92972db395fac85.js"
 );
 
 self.addEventListener('message', (event) => {
