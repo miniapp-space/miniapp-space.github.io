@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/tesla-coil-calculator/static/css/main.5c47ee51.chunk.css",
-    "main.js": "/tesla-coil-calculator/static/js/main.458834bf.chunk.js",
-    "main.js.map": "/tesla-coil-calculator/static/js/main.458834bf.chunk.js.map",
+    "main.css": "/tesla-coil-calculator/static/css/main.6327311f.chunk.css",
+    "main.js": "/tesla-coil-calculator/static/js/main.80e169ee.chunk.js",
+    "main.js.map": "/tesla-coil-calculator/static/js/main.80e169ee.chunk.js.map",
     "runtime-main.js": "/tesla-coil-calculator/static/js/runtime-main.c9df5dca.js",
     "runtime-main.js.map": "/tesla-coil-calculator/static/js/runtime-main.c9df5dca.js.map",
     "static/css/2.afc662ca.chunk.css": "/tesla-coil-calculator/static/css/2.afc662ca.chunk.css",
-    "static/js/2.27cb6259.chunk.js": "/tesla-coil-calculator/static/js/2.27cb6259.chunk.js",
-    "static/js/2.27cb6259.chunk.js.map": "/tesla-coil-calculator/static/js/2.27cb6259.chunk.js.map",
+    "static/js/2.8848f3e8.chunk.js": "/tesla-coil-calculator/static/js/2.8848f3e8.chunk.js",
+    "static/js/2.8848f3e8.chunk.js.map": "/tesla-coil-calculator/static/js/2.8848f3e8.chunk.js.map",
     "index.html": "/tesla-coil-calculator/index.html",
-    "precache-manifest.37cecc333859af51e92972db395fac85.js": "/tesla-coil-calculator/precache-manifest.37cecc333859af51e92972db395fac85.js",
+    "precache-manifest.b17463c1978dffbd248a406bdadf15b7.js": "/tesla-coil-calculator/precache-manifest.b17463c1978dffbd248a406bdadf15b7.js",
     "service-worker.js": "/tesla-coil-calculator/service-worker.js",
     "static/css/2.afc662ca.chunk.css.map": "/tesla-coil-calculator/static/css/2.afc662ca.chunk.css.map",
-    "static/css/main.5c47ee51.chunk.css.map": "/tesla-coil-calculator/static/css/main.5c47ee51.chunk.css.map",
-    "static/js/2.27cb6259.chunk.js.LICENSE.txt": "/tesla-coil-calculator/static/js/2.27cb6259.chunk.js.LICENSE.txt"
+    "static/css/main.6327311f.chunk.css.map": "/tesla-coil-calculator/static/css/main.6327311f.chunk.css.map",
+    "static/js/2.8848f3e8.chunk.js.LICENSE.txt": "/tesla-coil-calculator/static/js/2.8848f3e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c9df5dca.js",
     "static/css/2.afc662ca.chunk.css",
-    "static/js/2.27cb6259.chunk.js",
-    "static/css/main.5c47ee51.chunk.css",
-    "static/js/main.458834bf.chunk.js"
+    "static/js/2.8848f3e8.chunk.js",
+    "static/css/main.6327311f.chunk.css",
+    "static/js/main.80e169ee.chunk.js"
   ]
 }
